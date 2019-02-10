@@ -4,5 +4,5 @@ In this project, we use Logistic Regression to predict whether each observation 
 
 Below figure shows the scatter plot of the classifier model. 
 
-<img height=200 src="./images/logistic_regression_classifier.png"/>
+<img src="./images/logistic_regression_classifier.png"/>
 
